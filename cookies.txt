@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+usafundingapplications.org	TRUE	/	FALSE	1999999999	PHPSESSID	phl1ac4l69tmp5nk4bqhkahc5a
+.securitymetrics.com	TRUE	/	FALSE	1999999999	visid_incap_2488757	ofyfRT8MRta4F32EXYpaB7CnY2QAAAAAQUIPAAAAAACXzZ5ztbLF9k1c4DPlFien
+.securitymetrics.com	TRUE	/	FALSE	1999999999	incap_ses_6552_2488757	R7AKXLndbEKy5n3CjGHtWrCnY2QAAAAA6J1VjAUgSnuyR7zOjd9GNQ==
+www.securitymetrics.com	TRUE	/	FALSE	1999999999	SameSite	None
+
